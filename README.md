@@ -177,7 +177,19 @@ Once the server is running, visit in your browser:
 * DELETE /api/v1/meals/:meal_id/foods/:id
    * Removes the food with :id from the meal with :meal_id
 
-## Contributors
+## Authors
 
 * Colin: https://github.com/colinwarmstrong
 * Seth: https://github.com/SSchwartz214
+
+
+## Contributing
+
+1. Fork the repo
+2. Create your feature branch (`git checkout -b my-new-feature`)
+3. Create your new feature (make sure to test it and run RSpec)
+4. Commit your changes (`git commit -am 'Add some feature'`)
+5. Push up your branch (`git push origin my-new-feature`)
+6. Create a new pull request
+
+Or email the author at colinwarmstrong@gmail.com with any questions, comments, or concerns.
